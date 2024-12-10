@@ -1,1 +1,1 @@
-# Calculo-de-operaçoes-basicas-em-C
+# Calculadora-de-operaçoes-basicas-em-C
